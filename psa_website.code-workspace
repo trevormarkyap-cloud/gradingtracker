@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "instance"
+		},
+		{
+			"path": "static"
+		},
+		{
+			"path": "templates"
+		},
+		{
+			"path": "venv"
+		}
+	]
+}
